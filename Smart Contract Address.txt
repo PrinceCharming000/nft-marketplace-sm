@@ -1,0 +1,11 @@
+Ngage721Mint Smart Contract Address
+0x230B4b95f1e6F07196786eF154B10eF2c4a8Ee62
+
+Ngage1155Mint Smart Contract Address
+0x758359DC135f8da24e928efc213Fb9C4b22Cd618
+
+Trading Smart Contract Address
+0xF8C837523Ac1C167e2b706F483e13d8eC2EDfADE
+
+TransferProxy Smart Contract Address
+0xF840E7a4a271da3f58dD933Cd3FB365d9d4dac44
